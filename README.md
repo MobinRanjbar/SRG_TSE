@@ -16,7 +16,7 @@ The author of this project **DID NOT** use any **confidential, private or leaked
 - Data is everything. So we gathered some data about shareholders on the website mentioned above. (You can find the code and sample datasets on `etl` and `datasets` folder.)
 - The data explained us that who are the shareholders of a company. (The list of companies and its information we need, can also be gathered. For ease of use, a file named `ownership_ids.txt` in `assets/ids` folder includes these information.)
 - We extracted, transformed and loaded the data from MongoDB database and build the graph on Neo4j to have our data and explore it in the graph shape.
-- With the help of Neo4j Desktop, we ran some cypher queries to visualize the graph itself. The result was amazing that you can see it in the pictures above. (Good News: We exported the graph into SVG, JPG and PNG format that you can find them in `assets/images` folder.)
+- With the help of Neo4j Desktop, we ran some cypher queries to visualize the graph itself. The result was amazing that you can see it in the pictures above. (Good News: We exported the graph into SVG, JPG and PNG format that you can find them in `assets/images` folder. Do not forget to change the default configuration of Neo4j Desktop to see the full graph. The configuration is `:config initialNodeDisplay: 100000`.)
 - We also have done some graph analysis with the help of Apache Spark including `Connected Componenets` and `PageRank` and we saved the results in `results` folder. (The source code of these analysis is in `explore` folder and It has been written in Scala language.)
 - I know you can do more analysis in this area and We will be happy to have your contributions.
 
