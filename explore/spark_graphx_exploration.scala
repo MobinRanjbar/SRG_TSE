@@ -16,7 +16,7 @@
 * which first opened in 1967. As of May 2023, 666 companies with a
 * combined market capitalization of US$1.45 trillion were listed on
 * TSE. Iran's capital market has companies from a wide range of
-* industries,including automotive, telecommunications, agriculture,
+* industries,including automotive, telecommunications, agculture,
 * petrochemical, mining, steel iron, copper, banking and insurance,
 * banking and others. Many of the companies listed are state-owned
 * firms that have been privatized. (WikiPedia)
