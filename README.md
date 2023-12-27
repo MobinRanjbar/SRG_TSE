@@ -70,6 +70,10 @@ spark/bin/spark-shell -i spark_graphx_exploration.scala
 
 For ease of use and have your ideas in this project not only for these technologies, but also another tools you preferred to use, we exported a sample of 100 companies and their shareholders data for you in CSV and XLSX format that you can find them in `datasets` folder. In case of any issues about crawling the data, these samples are profitable to explore.
 
+## Academic Paper
+
+The academic paper of this project, will be published soon. The link of it will be added.
+
 ## Contribution
 
 Want to contribute? Great. Any sort of contribution is welcome! Just fork the project and do your contributions and let others see what you have done.
